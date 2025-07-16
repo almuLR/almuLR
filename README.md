@@ -63,7 +63,7 @@ Una app web para lectores, donde puedes registrar tus lecturas, escribir reseña
 
 ### 📫 Contacto
 
-- 💼 [LinkedIn] (https://www.linkedin.com/in/almudena-l%C3%B3pez-rodr%C3%ADguez-0433582b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/almudena-l%C3%B3pez-rodr%C3%ADguez-0433582b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 📧 almu.lr.2003@gmail.com
 
 ---
