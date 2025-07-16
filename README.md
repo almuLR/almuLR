@@ -1,73 +1,73 @@
-<!-- Cabecera SVG -->
+<!-- Cabecera personalizada -->
 <p align="center">
   <img src="assets/header-almudena.svg 10_27_08.png" alt="Almudena López Rodríguez - Ingeniera del Software" />
 </p>
 
-<h1 align="center">¡Hola, soy Almudena López Rodríguez! 👩‍💻</h1>
-<h3 align="center">Ingeniera del Software | Creadora de Special Reads | Apasionada por la tecnología, el diseño y el conocimiento libre</h3>
-
 <p align="center">
-  <a href="https://github.com/almuLR" target="_blank">
-    <img src="https://img.shields.io/github/followers/almuLR?label=Follow&style=social" />
-  </a>
-  <a href="https://www.linkedin.com/in/tu-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
-  </a>
+  <img src="https://img.shields.io/badge/Ingeniera%20del%20Software-Fullstack%20Developer-pink" />
+  <img src="https://img.shields.io/badge/Special%20Reads-WebApp-blueviolet" />
+  <img src="https://img.shields.io/badge/IA%20&%20Usabilidad-Focus-red" />
 </p>
 
 ---
 
-### ✨ Sobre mí
+<h2 align="center">✨ Bienvenida a mi espacio GitHub</h2>
 
-- 🎓 Graduada en **Ingeniería del Software**
-- 📚 Autora del TFG **Special Reads**, una aplicacion web de diarios de lectura con IA
-- 🔍 Interesada en desarrollo fullstack y software educativo
-- 🧠 Siempre aprendiendo:  IA, diseño centrado en el usuario, desarollo de apps moviles…
-- 💖 En busca de proyectos con impacto real, humano y tecnológico
+<p align="center">
+  Soy Almudena López Rodríguez, desarrolladora apasionada por el diseño centrado en el usuario, el desarrollo web y las tecnologías educativas.
+  <br>
+  🎓 Graduada en Ingeniería del Software | 💡 Curiosa incansable | 📚 Creadora de Special Reads
+</p>
+
+---
+
+### 📸 Special Reads – Mi TFG
+
+> Diario de lectura digital con recomendaciones personalizadas, retos, estanterías virtuales y un diseño accesible y emocional.
+
+<p align="center">
+  <img src="assets/3d951f65-b585-41ff-8683-17b1d87165ca.png" width="45%" />
+  <img src="assets/94564ca4-0e55-44e6-8f1d-89e5892f417e.png" width="45%" />
+  <br>
+  <img src="assets/b124d741-a596-4f43-b587-4c8ce5c18cee.png" width="45%" />
+  <img src="assets/278e3ad0-0c9b-41e1-9f8f-281754882854.png" width="45%" />
+</p>
+
+🔗 [Ver repositorio Special Reads](https://github.com/almuLR/Special-Reads)
 
 ---
 
 ### 🛠️ Tecnologías
 
-#### Lenguajes
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-333333?style=flat&logo=kotlin)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-
-#### Frameworks y herramientas
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=spring-boot)
-![Mustache](https://img.shields.io/badge/-Mustache-333333?style=flat&logo=mustache)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 
 ---
 
-### 💡 Proyecto destacado
-
-#### 📖 [Special Reads](https://github.com/almuLR/Special-Reads)
-
-Una app web para lectores, donde puedes registrar tus lecturas, escribir reseñas, seguir retos y recibir recomendaciones personalizadas. Desarrollado con enfoque en **usabilidad**, **modularidad** y **pruebas exhaustivas**.
-
----
-
-### 📊 Estadísticas
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=almuLR&show_icons=true&theme=rose_pine&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=almuLR&theme=rose_pine&hide_border=true" />
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuLR&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Contacto
+### 📫 Conecta conmigo
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/almudena-l%C3%B3pez-rodr%C3%ADguez-0433582b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-- 📧 almu.lr.2003@gmail.com
+- 💌 **Correo:** almu.lr.2003@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/almudena-l%C3%B3pez-rodr%C3%ADguez-0433582b6)
 
 ---
 
 ### 📝 Frase que me define
 
 > *“Crear software no es solo programar: es construir experiencias que importan.”*
+
