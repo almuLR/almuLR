@@ -1,6 +1,6 @@
 <!-- Cabecera SVG -->
 <p align="center">
-  <img src="assets/header-almudena.svg" alt="Almudena López Rodríguez - Ingeniera del Software" />
+  <img src="assets/header-almudena_10_17_08.svg" alt="Almudena López Rodríguez - Ingeniera del Software" />
 </p>
 
 <h1 align="center">¡Hola, soy Almudena López Rodríguez! 👩‍💻</h1>
