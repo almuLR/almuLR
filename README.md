@@ -53,8 +53,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=almuLR&theme=rose_pine&hide_border=true" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almuLR&layout=compact&theme=rose_pine&hide_border=true" />
 </p>
 
