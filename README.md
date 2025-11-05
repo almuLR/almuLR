@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">✨ Bienvenida a mi espacio GitHub</h2>
+<h2 align="center">✨ Bienvenido a mi espacio GitHub</h2>
 
 <p align="center">
   Soy Almudena López Rodríguez, desarrolladora de aplicaciones móviles en Android e iOS, con enfoque en diseño centrado en el usuario y experiencias digitales accesibles.
