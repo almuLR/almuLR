@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Ingeniería%20del%20Software-Desarrolladora%20Móvil-ff69b4" />
   <img src="https://img.shields.io/badge/Special%20Reads-WebApp-blueviolet" />
-  <img src="https://img.shields.io/badge/Special%20Reads-Mobile%20App-In%20Progress-orange" />
+  <img src="https://img.shields.io/badge/Special%20Reads-Mobile%20App-Progress-orange" />
   <img src="https://img.shields.io/badge/IA%20%26%20Usabilidad-Focus-red" />
 </p>
 
