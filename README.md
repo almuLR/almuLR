@@ -1,12 +1,13 @@
 <!-- Cabecera personalizada -->
 <p align="center">
-  <img src="assets/header-almudena.svg 10_27_08.png" alt="Almudena López Rodríguez - Ingeniera del Software" />
+  <img src="assets/header-almudena.svg" alt="Almudena López Rodríguez - Desarrolladora de Aplicaciones Móviles" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Ingeniera%20del%20Software-Fullstack%20Developer-pink" />
+  <img src="https://img.shields.io/badge/Ingeniería%20del%20Software-Desarrolladora%20Móvil-ff69b4" />
   <img src="https://img.shields.io/badge/Special%20Reads-WebApp-blueviolet" />
-  <img src="https://img.shields.io/badge/IA%20&%20Usabilidad-Focus-red" />
+  <img src="https://img.shields.io/badge/Special%20Reads-Mobile%20App-In%20Progress-orange" />
+  <img src="https://img.shields.io/badge/IA%20%26%20Usabilidad-Focus-red" />
 </p>
 
 ---
@@ -14,10 +15,11 @@
 <h2 align="center">✨ Bienvenida a mi espacio GitHub</h2>
 
 <p align="center">
-  Soy Almudena López Rodríguez, desarrolladora apasionada por el diseño centrado en el usuario, el desarrollo web y las tecnologías educativas.
+  Soy Almudena López Rodríguez, desarrolladora de aplicaciones móviles en Android e iOS, con enfoque en diseño centrado en el usuario y experiencias digitales accesibles.
   <br>
   🎓 Graduada en Ingeniería del Software | 💡 Curiosa incansable | 📚 Creadora de Special Reads
 </p>
+
 
 ---
 
