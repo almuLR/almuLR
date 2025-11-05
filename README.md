@@ -26,11 +26,11 @@
 > Diario de lectura digital con recomendaciones personalizadas, retos, estanterías virtuales y un diseño accesible y emocional.
 
 <p align="center">
-  <img src="assets/3d951f65-b585-41ff-8683-17b1d87165ca.png" width="45%" />
-  <img src="assets/94564ca4-0e55-44e6-8f1d-89e5892f417e.png" width="45%" />
+  <img src="assets/Captura%20de%20pantalla%202025-11-05%20a%20las%2013.23.07.png" width="45%" />
+  <img src="assets/Captura%20de%20pantalla%202025-11-05%20a%20las%2013.23.30.png" width="45%" />
   <br>
-  <img src="assets/b124d741-a596-4f43-b587-4c8ce5c18cee.png" width="45%" />
-  <img src="assets/278e3ad0-0c9b-41e1-9f8f-281754882854.png" width="45%" />
+  <img src="assets/Captura%20de%20pantalla%202025-11-05%20a%20las%2013.23.52.png" width="45%" />
+  <img src="assets/Captura%20de%20pantalla%202025-11-05%20a%20las%2013.24.03.png" width="45%" />
 </p>
 
 🔗 [Ver repositorio Special Reads](https://github.com/almuLR/Special-Reads)
