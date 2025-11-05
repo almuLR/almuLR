@@ -1,7 +1,5 @@
 <!-- Cabecera personalizada -->
-<p align="center">
-  <img src="assets/header-almudena.svg" alt="Almudena López Rodríguez - Desarrolladora de Aplicaciones Móviles" />
-</p>
+<p align="center"> <img src="assets/header-almudena.svg 10_27_08.png" alt="Almudena López Rodríguez - Ingeniera del Software" /> </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Ingeniería%20del%20Software-Desarrolladora%20Móvil-ff69b4" />
