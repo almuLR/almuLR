@@ -15,7 +15,7 @@
 <p align="center">
   Soy Almudena López Rodríguez, desarrolladora de aplicaciones móviles en Android e iOS, con enfoque en diseño centrado en el usuario y experiencias digitales accesibles.
   <br>
-  🎓 Graduada en Ingeniería del Software | 💡 Curiosa incansable | 📚 Creadora de Special Reads
+  🎓 Graduada en Ingeniería del Software | 💡 Desarrolladora Movile | 📚 Creadora de Special Reads
 </p>
 
 
@@ -23,7 +23,7 @@
 
 ### 📸 Special Reads – Mi TFG
 
-> Diario de lectura digital con recomendaciones personalizadas, retos, estanterías virtuales y un diseño accesible y emocional.
+> Diario de lectura digital con recomendaciones personalizadas, retos, estanterías virtuales y un diseño accesible y emocional. Actualmente en proceso de crear su aplicación móvil.
 
 <p align="center">
   <img src="assets/Captura%20de%20pantalla%202025-11-05%20a%20las%2013.23.07.png" width="45%" />
